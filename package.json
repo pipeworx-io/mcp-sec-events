@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-sec-events",
+  "version": "0.1.0",
+  "description": "SEC 8-K event triage — query our pre-classified mirror of every",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "sec-events"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-sec-events"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
