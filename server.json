@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/sec-events",
   "title": "Sec Events",
-  "description": "SEC 8-K event triage — query our pre-classified mirror of every",
-  "version": "0.1.0",
+  "description": "SEC 8-K event triage — query pre-classified 8-K filings from the last",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sec-events",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sec-events",
