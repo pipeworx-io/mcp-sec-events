@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sec-events",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SEC 8-K event triage — query pre-classified 8-K filings from the last",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-64225a3765ce68cebc351b3f0601afd98e7ca96b0e47afd2dbddd8290f230395",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-9d27e0fbbadb6eba4d3269174e533197569645fb28522b03dc101325e225ae50",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }

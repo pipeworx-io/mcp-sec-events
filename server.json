@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sec-events",
   "title": "Sec Events",
   "description": "SEC 8-K event triage — query pre-classified 8-K filings from the last",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/sec-events",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sec-events",
